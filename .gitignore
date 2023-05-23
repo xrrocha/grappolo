@@ -1,0 +1,17 @@
+*.*.swp
+*.log
+.DS_Store
+.ammonite/
+.bloop/
+.bsp/
+.idea/
+.local/
+.metals/
+.scala-build/
+.scalafmt.conf
+.vscode/
+.~*
+metals.sbt
+notes/
+results/
+target/
